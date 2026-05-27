@@ -8,6 +8,9 @@
 
 <img width="1440" height="740" alt="Screenshot 2026-05-27 at 2 57 46 PM" src="https://github.com/user-attachments/assets/5cfdee64-9691-4241-82c3-3bfcd11f01a9" />
 
+<img width="1440" height="740" alt="Screenshot 2026-05-27 at 3 08 49 PM" src="https://github.com/user-attachments/assets/0924193e-9af6-4eb1-a216-e7a0eeb162aa" />
+
+<img width="1440" height="740" alt="Screenshot 2026-05-27 at 3 15 51 PM" src="https://github.com/user-attachments/assets/27d03758-ee94-483d-9ce1-665ba340927a" />
 
 
 
