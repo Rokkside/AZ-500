@@ -40,6 +40,8 @@
 
 <img width="1440" height="740" alt="Screenshot 2026-05-28 at 12 55 21 PM" src="https://github.com/user-attachments/assets/1c1c7283-c960-4170-9c1e-d51cefebbe64" />
 
+<img width="1440" height="740" alt="Screenshot 2026-05-28 at 1 01 22 PM" src="https://github.com/user-attachments/assets/378be927-0abc-4879-a2eb-de5acd1a0bdf" />
+
 
 
 
