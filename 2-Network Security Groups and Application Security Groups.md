@@ -26,6 +26,7 @@
 
 <img width="1440" height="740" alt="Screenshot 2026-05-28 at 11 14 46 AM" src="https://github.com/user-attachments/assets/dbdb627e-db2c-4553-9649-3c13d0dbb274" />
 
+<img width="1440" height="740" alt="Screenshot 2026-05-28 at 11 17 54 AM" src="https://github.com/user-attachments/assets/5e95940a-717a-4dcc-bc29-50a12b9529cd" />
 
 
 
