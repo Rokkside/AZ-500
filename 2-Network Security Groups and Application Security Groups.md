@@ -70,6 +70,7 @@
 
 <img width="1440" height="740" alt="Screenshot 2026-05-28 at 1 40 15 PM" src="https://github.com/user-attachments/assets/d6b1848e-1e11-4c3d-ac52-638945df1d19" />
 
+<img width="1440" height="740" alt="Screenshot 2026-05-28 at 1 42 28 PM" src="https://github.com/user-attachments/assets/73dc88ef-3118-4e24-ab9e-86937ed34bc6" />
 
 
 
