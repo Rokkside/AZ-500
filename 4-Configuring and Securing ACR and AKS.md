@@ -61,5 +61,6 @@ az role assignment create --assignee $AKS_MANAGED_ID --role "Contributor" --scop
 
 <img width="1440" height="740" alt="Screenshot 2026-05-29 at 2 00 05 PM" src="https://github.com/user-attachments/assets/58212c63-c7e2-40a2-a667-0cb86fee50f9" />
 
+<img width="1440" height="740" alt="Screenshot 2026-05-29 at 2 09 31 PM" src="https://github.com/user-attachments/assets/8e9112d7-4d7d-4296-b398-85f9d2ff63b3" />
 
 
