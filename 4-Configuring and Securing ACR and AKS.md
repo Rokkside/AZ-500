@@ -40,20 +40,20 @@
 
 <img width="1440" height="740" alt="Screenshot 2026-05-29 at 1 56 48 PM" src="https://github.com/user-attachments/assets/b8c368e2-6860-4914-bb0a-7d006d70fffb" />
 
-## 
-RG_AKS=AZ500LAB09
+## Commands
+### RG_AKS=AZ500LAB09
 
-RG_VNET=MC_AZ500LAB09_MyKubernetesCluster_eastus    
+### RG_VNET=MC_AZ500LAB09_MyKubernetesCluster_eastus    
 
-AKS_VNET_NAME=aks-vnet-30198516
+### AKS_VNET_NAME=aks-vnet-30198516
 
-AKS_CLUSTER_NAME=MyKubernetesCluster
+### AKS_CLUSTER_NAME=MyKubernetesCluster
 
-AKS_VNET_ID=$(az network vnet show --name $AKS_VNET_NAME --resource-group $RG_VNET --query id -o tsv)
+### AKS_VNET_ID=$(az network vnet show --name $AKS_VNET_NAME --resource-group $RG_VNET --query id -o tsv)
 
-AKS_MANAGED_ID=$(az aks show --name $AKS_CLUSTER_NAME --resource-group $RG_AKS --query identity.principalId -o tsv)
+### AKS_MANAGED_ID=$(az aks show --name $AKS_CLUSTER_NAME --resource-group $RG_AKS --query identity.principalId -o tsv)
 
-az role assignment create --assignee $AKS_MANAGED_ID --role "Contributor" --scope $AKS_VNET_ID
+### az role assignment create --assignee $AKS_MANAGED_ID --role "Contributor" --scope $AKS_VNET_ID
 
 
 
