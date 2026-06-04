@@ -68,7 +68,9 @@
 
 <img width="1440" height="744" alt="Screenshot 2026-06-03 at 9 29 38 PM" src="https://github.com/user-attachments/assets/c5d6fdce-90e6-40d1-b383-19cee26ad28c" />
 
+<img width="1440" height="744" alt="Screenshot 2026-06-03 at 9 32 28 PM" src="https://github.com/user-attachments/assets/9f7d2a5a-082d-4372-b363-86409de8c1aa" />
 
+<img width="1440" height="744" alt="Screenshot 2026-06-03 at 9 35 36 PM" src="https://github.com/user-attachments/assets/42a99de7-162c-46fa-b478-611796f11924" />
 
 
 
